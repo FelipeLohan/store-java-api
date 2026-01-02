@@ -3,7 +3,6 @@ package com.FelipeLohan.storeapi.controllers;
 import com.FelipeLohan.storeapi.controllers.interfaces.ICategoryController;
 import com.FelipeLohan.storeapi.entities.Category;
 import com.FelipeLohan.storeapi.services.interfaces.ICategoryService;
-import org.springframework.boot.autoconfigure.graphql.GraphQlProperties;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
